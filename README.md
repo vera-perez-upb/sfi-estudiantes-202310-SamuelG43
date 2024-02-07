@@ -1,5 +1,5 @@
 # Nombre del Equipo:
-  ## Harmony
+  ## Armony
 # Integrantes:
   - Sahara Álvarez
       ID : 000448890
