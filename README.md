@@ -8,4 +8,4 @@
   - Samuel Gaviria
       ID: 000471727
 # Link repositorio personal 
--  [Repositorio Personal](https://github.com/SamuelG43/proyecto-Raspberry-pi..git) 
+-  [Repositorio Evaluación ejercicio #4](https://github.com/SamuelG43/proyecto-Raspberry-pi.git) 
