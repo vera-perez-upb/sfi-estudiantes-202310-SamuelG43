@@ -10,3 +10,4 @@
 # Link repositorio personal 
 -  [README.md Ejercicios toda unidad 1](https://github.com/SamuelG43/proyecto-Raspberry-pi.git)
 
+- [README.md Evaluación unidad 2](https://github.com/SamuelG43/Unidad2_Evaluaci-n.git)
